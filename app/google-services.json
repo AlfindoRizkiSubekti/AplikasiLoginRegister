@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44522667097",
+    "project_id": "login-and-register-efe53",
+    "storage_bucket": "login-and-register-efe53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44522667097:android:a4e6a910a52fbc38330548",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44522667097-4ql2l2c0d20ueepqu0ksn6mspar8b065.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmH-f8L1lGhHRCgHHLUXIX5KzVbrN2yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44522667097-4ql2l2c0d20ueepqu0ksn6mspar8b065.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
